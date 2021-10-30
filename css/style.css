@@ -1,0 +1,31 @@
+/* .jumbo-bg{
+	background-repeat: no-repeat;background-size: 100% 100%;
+	background: url(../img/festival.jpg);
+} */
+
+.warna-bg{
+	background: linear-gradient(to right, rgba(91,134,229, .92), rgba(54,209,220, .92));
+}
+
+.jumbotron-bg{
+	background-size: cover;
+	background: url(../img/festival.jpg);
+	background-size: 1300px;
+}
+
+.carousel-item {
+    height: 500px;
+    background-color: #777;
+  }
+
+  .lokasi {
+	padding: 4rem 1rem;
+	margin-bottom: 2rem;
+	background-color: #e9ecef;
+	border-radius: 0.3rem;
+  }
+
+  /* .lokasi hr {
+	  width: 250px;
+	  border-top: 3x solid #000;
+  } */
