@@ -23,14 +23,14 @@
         <div class="collapse navbar-collapse" id="navbarSupportedContent">
           <ul class="navbar-nav mr-auto">
             <li class="nav-item active">
-              <a class="nav-link" href="index.html">Beranda <span class="sr-only">(current)</span></a>
+              <a class="nav-link" href="index.php">Beranda <span class="sr-only">(current)</span></a>
             </li>
           <li class="nav-item dropdown">
             <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
               Profil Desa
             </a>
             <div class="dropdown-menu" aria-labelledby="navbarDropdown">
-              <a class="dropdown-item" href="profil.html">Sejarah Desa</a>
+              <a class="dropdown-item" href="profil.php">Sejarah Desa</a>
               <a class="dropdown-item" href="#">Profil Wilayah Desa</a>
             </div>
           </li>
@@ -39,7 +39,7 @@
               Pemerintahan Desa
             </a>
             <div class="dropdown-menu" aria-labelledby="navbarDropdown">
-              <a class="dropdown-item" href="kontak.html">Visi dan Misi</a>
+              <a class="dropdown-item" href="kontak.php">Visi dan Misi</a>
               <a class="dropdown-item" href="#">Pemerintah Desa</a>
             </div>
           </li>
