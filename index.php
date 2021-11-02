@@ -31,6 +31,7 @@
               </a>
               <div class="dropdown-menu" aria-labelledby="navbarDropdown">
                 <a class="dropdown-item" href="profil.php">Sejarah Desa</a>
+                <div class="dropdown-divider"></div>
                 <a class="dropdown-item" href="#">Profil Wilayah Desa</a>
               </div>
             </li>
@@ -40,6 +41,7 @@
               </a>
               <div class="dropdown-menu" aria-labelledby="navbarDropdown">
                 <a class="dropdown-item" href="kontak.php">Visi dan Misi</a>
+                <div class="dropdown-divider"></div>
                 <a class="dropdown-item" href="#">Pemerintah Desa</a>
               </div>
             </li>
@@ -49,6 +51,7 @@
               </a>
               <div class="dropdown-menu" aria-labelledby="navbarDropdown">
                 <a class="dropdown-item" href="#">Administrator</a>
+                <div class="dropdown-divider"></div>
                 <a class="dropdown-item" href="#">Layanan Mandiri</a>
               </div>
             </li>
